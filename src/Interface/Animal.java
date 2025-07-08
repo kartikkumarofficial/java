@@ -1,7 +1,9 @@
 package Interface;
 
 public interface Animal {
-     public abstract void  eat(); // public and abstract are by default so redundent
+     void eat();
+
+     public abstract void makeSound(); // public and abstract are by default so redundent
 
      void sleep();
 }
