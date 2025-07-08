@@ -9,6 +9,6 @@ public class test {
         dog.makeSound();
         System.out.println(dog.name);
         cat.makeSound();
-        System.out.println(cat.name);
+        System.out.println(cat.name );
     }
 }
