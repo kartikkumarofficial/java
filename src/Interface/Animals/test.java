@@ -1,4 +1,4 @@
-package Interface;
+package Interface.Animals;
 
 public class test {
     public static void main(String[] args) {
