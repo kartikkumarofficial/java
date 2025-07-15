@@ -14,6 +14,6 @@ public class countingoccurences {
             if (rem==3)  count++;
             n/=10;
         }
-        System.out.println("Number of 3 are :"count);
+        System.out.println("Number of 3 are :" + count);
     }
 }
