@@ -1,5 +1,7 @@
+package others;
+
 public class Revise{
-    static class Calc {
+    public static class Calc {
         int add(int a , int b){
             return a+b;
         }

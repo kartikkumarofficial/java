@@ -1,4 +1,4 @@
-package others;
+package clg;
 
 import java.util.Scanner;
 

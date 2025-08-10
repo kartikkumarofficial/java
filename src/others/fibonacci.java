@@ -1,7 +1,9 @@
+package others;
+
 import java.util.*;
 public class fibonacci {
     public static void main(String[] args) {
-        //Program to print fibonacci sequence
+        //Program to print others.fibonacci sequence
         int i=1;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter no. till which you want to see fibonacci seq:");

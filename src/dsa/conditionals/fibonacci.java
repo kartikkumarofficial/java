@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class fibonacci {
     public static void main(String[] args) {
-        System.out.print("Enter the amount of number you want in your fibonacci series: ");
+        System.out.print("Enter the amount of number you want in your others.fibonacci series: ");
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         int n1 = 0;

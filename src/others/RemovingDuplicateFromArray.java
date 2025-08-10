@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package others;
 
 public class RemovingDuplicateFromArray {
     public static void main(String[] args) {

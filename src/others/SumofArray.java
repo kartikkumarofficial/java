@@ -1,3 +1,5 @@
+package others;
+
 public class SumofArray {
     public static void main(String[] args) {
         //program to get sum of all elements of array
