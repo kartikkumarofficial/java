@@ -1,4 +1,4 @@
-package dsa.array;
+package dsa.array.BinarySearch;
 
 public class OrderAgnosticBinarySearch {
     public static int BinarySearch(int[] nums, int target) {

@@ -1,4 +1,4 @@
-package dsa.array;
+package dsa.array.BinarySearch;
 
 public class BinarySearch {
     public static int binSearch(int[] nums,int target){
