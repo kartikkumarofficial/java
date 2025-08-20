@@ -34,7 +34,7 @@ public class FloorOfANum {
 
 
 
-        return nums[end];
+        return end;
     }
 
     public static void main(String[] args) {
