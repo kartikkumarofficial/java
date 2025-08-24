@@ -40,13 +40,7 @@ public class spiralmatrix {
                     left++;
                 }
 
-
-
-
             }
-
-
-
 
             return list;
         }
