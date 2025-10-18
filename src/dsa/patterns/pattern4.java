@@ -2,7 +2,8 @@ package dsa.patterns;
 //half diamond
 public class pattern4 {
     public static void main(String[] args) {
-        for (int row = 1; row <6; row++) {
+        int n = 5;
+        for (int row = 1; row <n; row++) {
             for (int col = 1; col <=row; col++) {
                 System.out.print(col+ " ");
             }
