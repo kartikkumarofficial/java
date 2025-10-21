@@ -6,9 +6,12 @@ public class pattern6 {
 
         for (int row = 1; row <= n; row++) {
             for (int col = 1;col<=n-row; col++) {
-                System.out.print("#");
+                System.out.print(" ");
                 
 
+            }
+            for (int i = 1; i <=row ; i++) {
+                System.out.print("*");
             }
             System.out.println(" ");
         }
