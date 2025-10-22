@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class fibonacci {
     public static void main(String[] args) {
 //        0 , 1 , 1 , 2 , 3, 5 , 8 , 13
-        Scanner sc = new Scanner(System.in);
-        System.out.print("Element at nth index of  fibo series : ");
+        System.out.print("Element at nth index of  fibonacci series : ");
         int f= fibo(5);
         System.out.print(f);
     }
