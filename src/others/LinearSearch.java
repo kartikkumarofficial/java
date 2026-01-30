@@ -16,3 +16,8 @@ public class LinearSearch {
 
         }    }
 }
+
+
+
+//time complexity - O(n)    best = O(1)
+//space - const

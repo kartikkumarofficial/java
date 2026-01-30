@@ -28,3 +28,4 @@ public class BinarySearchRev {
 
     }
 }
+//time compexity - O(logn)
