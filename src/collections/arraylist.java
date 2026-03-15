@@ -1,4 +1,4 @@
-package collections_fw;
+package collections;
 import java.util.*;
 public class arraylist {
     public static void main(String[] args) {
@@ -11,6 +11,9 @@ public class arraylist {
         for(int i=0;i<list.size();i++){
             System.out.print(list.get(i)+" ");
         }
+
+
+
     }
 }
 
