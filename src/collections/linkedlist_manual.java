@@ -9,7 +9,7 @@ public class linkedlist_manual {
         //single element linkedlist
         node2.value=2;
         node2.next=null;
-        insertAtEnd(node1,4);
+        insertAtEnd( node1,4);
         insertAtBeg(node1,5);
         node1 = insertAtBeg(node1, 0);
         printList(node1);
