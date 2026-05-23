@@ -1,6 +1,6 @@
 package dsa.bitwise;
 
-public class power {
+public class fastpower {
     public static void main(String[] args) {
         System.out.println(powerr(2,5));
     }
