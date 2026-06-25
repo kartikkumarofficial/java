@@ -9,10 +9,6 @@ public class merge_sort_inplace {
 
     }
 
-
-
-
-
     private static int[] mergesort(int[] arr,int s,int e) {
         if(arr.length==1){
             return arr;
